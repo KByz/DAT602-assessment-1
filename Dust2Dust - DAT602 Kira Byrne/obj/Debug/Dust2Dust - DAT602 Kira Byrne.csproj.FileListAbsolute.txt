@@ -1,0 +1,51 @@
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\Dust2Dust - DAT602 Kira Byrne.exe.config
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\Dust2Dust - DAT602 Kira Byrne.exe
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\Dust2Dust - DAT602 Kira Byrne.pdb
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\obj\Debug\Dust2Dust - DAT602 Kira Byrne.csproj.AssemblyReference.cache
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\obj\Debug\Dust2Dust___DAT602_Kira_Byrne.Properties.Resources.resources
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\obj\Debug\Dust2Dust - DAT602 Kira Byrne.csproj.GenerateResource.cache
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\obj\Debug\Dust2Dust - DAT602 Kira Byrne.csproj.CoreCompileInputs.cache
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\obj\Debug\Dust2Dust - DAT602 Kira Byrne.exe
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\obj\Debug\Dust2Dust - DAT602 Kira Byrne.pdb
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\obj\Debug\Dust2Dust___DAT602_Kira_Byrne.MainMenu.resources
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\obj\Debug\Dust2Dust___DAT602_Kira_Byrne.Login.resources
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\obj\Debug\Dust2Dust___DAT602_Kira_Byrne.signup.resources
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\MySqlConnector.dll
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\System.Buffers.dll
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\System.Memory.dll
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\MySqlConnector.xml
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\System.Buffers.xml
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\System.Memory.xml
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\obj\Debug\Dust2Dus.A9B6B0D2.Up2Date
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\obj\Debug\Dust2Dust___DAT602_Kira_Byrne.Admin.resources
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\Google.Protobuf.dll
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\MySql.Data.dll
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\System.IO.Pipelines.dll
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\ZstdSharp.dll
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\Google.Protobuf.pdb
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\Google.Protobuf.xml
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\MySql.Data.xml
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\bin\Debug\System.IO.Pipelines.xml
+C:\Users\kirab\source\repos\Dust2Dust - DAT602 Kira Byrne\Dust2Dust - DAT602 Kira Byrne\obj\Debug\Dust2Dust___DAT602_Kira_Byrne.Game.resources
